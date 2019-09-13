@@ -15,6 +15,17 @@ React Component - Four Parts
 * Image: Show an image.
 * Button: Show a Button that the user can press. Give us some feedback wherever the user pressed it.
 
+## FlatList
+1. Turns an array into a list of elements.
+2. We are required to pass in a prop of 'data'.
+3. Also required pass a 'renderItem' prop: Function that will turn each individual element item into an element.
+4. If you are coming from React on the web, you might be used to "Mapping" an array of data to build a list; FlatList in better in React Native.
+
+* Important/Optional props
+    - horizontal
+    - showHorizontalScrollIndicator
+
+
 ## Rules of JSX
 * We can assemble different JSX elements like normal HTML.
 * We configure different JSX elements using props.

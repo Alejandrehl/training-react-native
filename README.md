@@ -25,6 +25,9 @@ React Component - Four Parts
     - horizontal
     - showHorizontalScrollIndicator
 
+## Buttons
+1. Button: Very simple component for showing a button and detecting a press.
+2. TouchableOpacity: Highly customizable component that can detect a press on just about any kind element.
 
 ## Rules of JSX
 * We can assemble different JSX elements like normal HTML.

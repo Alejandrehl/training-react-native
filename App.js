@@ -13,7 +13,7 @@ navigator = createStackNavigator(
         List: ListScreen
     },
     {
-        initialRouteName: 'List',
+        initialRouteName: 'Home',
         defaultNavigationOptions: {
             title: 'App'
         }

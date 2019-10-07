@@ -47,3 +47,9 @@ React Component - Four Parts
 - We configure different JSX elements using props.
 - We can refer to JS variables inside of a JSX block by using curly braces.
 - We can assign JSX elements to a variable, then show that variable inside of a JSX block.
+
+## Layout Systems
+
+1. Box Object Model: The height/width of an element + the space around it -> Use this to affect the positioning of a single element.
+2. Flex Box: How some number of sibling elements get laid out inside a parent -> Use this position multiple elements with a common a parent.
+3. Position: How a single elements gets laid out inside of a parent -> Use this to override Box Object Model + Flex Box.

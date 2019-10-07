@@ -58,4 +58,4 @@ React Component - Four Parts
 - alignItems: "stretch" by default. Options: flex-start, center, flex-end.
 - justifyContent: "flex-start" by default. Options: center, flex-end, space-between, space-around.
 - Parent: alignItems, justifyContent, flexDirection.
-- Child: flex, alignSelf.
+- Child: flex, alignSelf. Flex(10 spaces). alignSelg can be flex-end-center or flex-start.
